@@ -29,4 +29,5 @@ Computer science graduate with a passion for software and web development.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vcyhk&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vcyhk&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
